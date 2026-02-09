@@ -1,0 +1,16 @@
+name: seismotool
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - obspy
+  - jupyterlab
+  - numpy
+  - matplotlib
+  - cartopy
+  - scipy
+  - pygmt
+  - geopandas
+  - mpmath
+  - sympy
