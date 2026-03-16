@@ -1,10 +1,14 @@
 # research_codes
 
-Codes for general seismology.
+Codes and scripts used for general seismology research.
 
-This line was added on GitHub to create a merge conflict.
+Some scripts were written with help and guidance from [Carl Tape](https://github.com/carltape).
 
-Some scripts were written with help and guidance from [Carl Tape](https://github.com/carltape)
+## Repository Contents
+
+* **mt_matrix.py** – Python script for moment tensor matrix calculations
+* **mtbeach.py** – Script for generating beachball diagrams for seismic events
+* **seismic_map/** – Directory containing scripts related to seismic mapping
 
 Clone this repository:
 
