@@ -3,6 +3,7 @@
 Codes and scripts used for general seismology research.
 
 test merge conflict resolution
+
 GitHub to test merge conflict resolution
 
 Some scripts were written with help and guidance from [Carl Tape](https://github.com/carltape).
